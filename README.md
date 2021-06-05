@@ -1,1 +1,1 @@
-# Sistema_Controle_Estoque_Equipamentos
+# Sistema Completo de Controle Estoque Equipamentos usando banco em nuvem MySQL
